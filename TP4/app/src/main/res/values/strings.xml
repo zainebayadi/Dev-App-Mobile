@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP4</string>
+    <string name="ajouter_la_base">Ajouter à la BASE</string>
+    <string name="voir_base">Voir Base</string>
+</resources>
